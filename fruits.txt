@@ -2,4 +2,6 @@ apples
 berries
 cherries
 durians
+kiwi
+papaya
 watermelon
